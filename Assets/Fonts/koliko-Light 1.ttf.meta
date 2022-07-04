@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 28c7ff9ba4e190947af4640018c347a2
+timeCreated: 1507831678
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: koliko
+  fontNames:
+  - koliko
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 631d4083868af3747819aa4fcb183201, type: 3}
+  - {fileID: 12800000, guid: 804525f8a905515439373065df75ae56, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4f652a90e3943414393dd18c549d36f6
+timeCreated: 1507831676
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bavro
+  fontNames:
+  - Bavro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8837b2498924d0f4cab88bd895fd37c4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
